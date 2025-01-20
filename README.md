@@ -6,9 +6,7 @@
   <div>
     Welcome to my Github profile! 👋<br />
     <br />
-    <a href="https://www.codewars.com/users/Maksim_SinicbIn/badges/large">
-      <img src="https://www.codewars.com/users/Maksim_SinicbIn/badges/small"/>
-    </a>
+    [![Codwears badge](https://www.codewars.com/users/Maksim_SinicbIn/badges/small?theme=dark)](https://www.codewars.com/users/Maksim_SinicbIn)
   </div> 
 </div>
 <!--
