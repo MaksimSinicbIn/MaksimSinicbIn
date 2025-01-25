@@ -2,7 +2,7 @@
 [![Codwars badge](https://www.codewars.com/users/Maksim_SinicbIn/badges/large?theme=dark)](https://www.codewars.com/users/Maksim_SinicbIn) <br/>
 
 ### :man_technologist: About Me :
-Front-End developer with experience in creating SPA using React, Redux, TypeScript and having strong knowledge in native JS, CSS and semantic HTML.
+Front-End developer with experience in creating SPA using React, Redux, TypeScript and having strong knowledge in native JS, CSS and semantic HTML.<br/>
 Now I am improving my skills in this direction and expanding them with new technologies.
 
 ### :hammer_and_wrench: Languages and Tools :
