@@ -1,11 +1,10 @@
 ## Welcome to my Github profile! 👋
-[![Codwars badge](https://www.codewars.com/users/Maksim_SinicbIn/badges/large?theme=dark)](https://www.codewars.com/users/Maksim_SinicbIn) <br/>
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 Front-End developer with experience in creating SPA using React, Redux, TypeScript and having strong knowledge in native JS, CSS and semantic HTML.<br/>
 Now I am improving my skills in this direction and expanding them with new technologies.
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -18,6 +17,9 @@ Now I am improving my skills in this direction and expanding them with new techn
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimSinicbIn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## :computer: Code examples :
+[![Codwars badge](https://www.codewars.com/users/Maksim_SinicbIn/badges/large?theme=dark)](https://www.codewars.com/users/Maksim_SinicbIn) <br/>
 
 <!--
 **MaksimSinicbIn/MaksimSinicbIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
