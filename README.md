@@ -14,7 +14,10 @@ Now I am improving my skills in this direction and expanding them with new techn
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"  title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="Vscode" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
 <br/>
 
